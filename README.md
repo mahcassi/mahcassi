@@ -2,8 +2,8 @@
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 <p><em>Software Developer at <a href="[https://www.avivatec.com.br/]">Avivatec</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br></p>
 
-[![Linkedin: mahcassi](https://img.shields.io/badge/-mahcassi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/maria-eduarda-cassiano/)
-[![GitHub mahcassi](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/mahcassi)
+[![Linkedin: mahcassi](https://img.shields.io/badge/-mahcassi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mahcassi/)](https://www.linkedin.com/in/maria-eduarda-cassiano/)
+[![GitHub mahcassi](https://img.shields.io/github/followers/mahcassi?label=follow&style=social)](https://github.com/mahcassi)
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
@@ -13,7 +13,7 @@ const duda = {
   pronouns: "she" | "her",
   code: [Javascript, Typescript, HTML, CSS, C#, SCSS, SQL],
   tools: [Angular, RXJS, Storybook, .NET CORE, SQL SERVER],
- challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+ challenge: I am focused on improving my back-end skills in .NET and SQL."
 }
 ```
 
