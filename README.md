@@ -12,8 +12,8 @@
 const duda = {
   pronouns: "she" | "her",
   code: [Javascript, Typescript, HTML, CSS, C#, SCSS, SQL],
-  tools: [Angular, RXJS, Storybook, .NET CORE, SQL SERVER],
- challenge: I am focused on improving my back-end skills in .NET and SQL."
+  tools: [Angular, RXJS, Storybook, .NET Core, SQL SERVER],
+ challenge: "I am focused on improving my back-end skills in .NET Core and SQL."
 }
 ```
 
@@ -25,6 +25,6 @@ const duda = {
 
 <div>
 <a href="https://github.com/mahcassi">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahcassi&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mahcassi&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahcassi&layout=compact&langs_count=7&theme=dracula"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=mahcassi&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
