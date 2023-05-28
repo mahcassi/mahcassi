@@ -6,7 +6,7 @@
 [![GitHub mahcassi](https://img.shields.io/github/followers/mahcassi?label=follow&style=social)](https://github.com/mahcassi)
 
 
-### ![octocat-1685202055143.png] width="50"> A little more about me...  
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
 const duda = {
@@ -17,7 +17,7 @@ const duda = {
 }
 ```
 
-![octocat-1685202055143.png] I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
 ---
 
