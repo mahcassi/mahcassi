@@ -12,7 +12,7 @@
 const duda = {
   pronouns: "she" | "her",
   code: [Javascript, Typescript, HTML, CSS, C#, SCSS, SQL],
-  tools: [Angular2+, RXJS, Storybook, Jasmine and Karma, .NET Core, SQL Server],
+  tools: [Angular2+, RXJS, Storybook, Jasmine and Karma, .NET Core, SQL Server, Git],
  challenge: "I am focused on improving my back-end skills in .NET Core and SQL."
 }
 ```
